@@ -37,7 +37,6 @@ I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune Univer
 <br>
 <a href="https://www.linkedin.com/in/jeesa-prakash-71b126179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jeesa.cool97@gmail.com?subject=Hi%20Ankush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
 <p align="center">
