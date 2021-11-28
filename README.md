@@ -10,7 +10,7 @@ I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune Univer
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anku-kashyap&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Ankush's Github stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anku-kashyap&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anku-kashyap&theme=tokyonight" alt="Ankush's Streak">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeesaPrakash&theme=tokyonight" alt="Jeesa's Streak">
 </p><br>
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
@@ -21,7 +21,6 @@ I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune Univer
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://github.com/JeesaPrakash/JeesaPrakash/blob/main/android.png" alt="Android"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
 
 
