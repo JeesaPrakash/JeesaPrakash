@@ -16,7 +16,7 @@ I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune Univer
 <p align="center">
 <br>
  <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
-<code><img height="50" src="https://github.com/JeesaPrakash/JeesaPrakash/blob/main/672-67254.png" alt="Java"></code>
+<code><img height="50" src="https://github.com/JeesaPrakash/JeesaPrakash/blob/main/java-logo-1.png" alt="Java"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
