@@ -1,10 +1,10 @@
 <p align='center'>
-  <img  src="https://github.com/Anku-Kashyap/Anku-kashyap/blob/master/gifs/Developer.gif" alt="Developer gif">
+  <img  src="https://github.com/JeesaPrakash/JeesaPrakash/blob/main/developergif.gif" alt="Developer gif">
 </p>
 <h2 align="center">Hi Everyone <img width="30px" src="https://github.com/Anku-Kashyap/Anku-kashyap/blob/master/gifs/Hi.gif">  I'm <a href="https">Jeesa</a></h2>
 <p align="center">
   <samp>
-I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune University (SPPU), Pune, pursuing a Master of Computer Application in my Second Year. I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Open Source, Application Development, and Cryptography.Apart from being a Tech Geek,I love to travel especially traking and hiking.
+I'm Jeesa Prakash, a student at Department of Computer Science, Savitribai Phule Pune University (SPPU) pursuing Masters of Computer Application. I'm an Android Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Web Development, Application Development and UI Design. Besides being a Tech Geek, I have a passion of photography, travelling and exploring new places.
   </samp>
 </p>
 <p align="center">
